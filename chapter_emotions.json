@@ -1,0 +1,7858 @@
+{
+  "A Christmas Carol in Prose; Being a Ghost Story of Christmas by Charles Dickens (16052)": {
+    "chapter1": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter2": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "surprise",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter3": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "realization",
+        "approval"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter4": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "optimism",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter5": {
+      "go_emotions": [
+        "joy",
+        "neutral",
+        "sadness",
+        "amusement"
+      ],
+      "mapped_emotion": "happy"
+    }
+  },
+  "A Doll's House _ a play by Henrik Ibsen (43131)": {
+    "chapter1": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "amusement",
+        "gratitude"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter2": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "disapproval",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter3": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral_negative"
+    }
+  },
+  "A Modest Proposal by Jonathan Swift (21777)": {
+    "chapter1": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "disappointment",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    }
+  },
+  "A Room with a View by E. M.  Forster (37520)": {
+    "chapter1": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "curiosity"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter2": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter3": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter4": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "curiosity",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter5": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "approval",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter6": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter7": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter8": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "approval",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter9": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "disappointment",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter10": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "disappointment"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter11": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter12": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "curiosity",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter13": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "disapproval",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter14": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "caring",
+        "nervousness"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter15": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "annoyance",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter16": {
+      "go_emotions": [
+        "neutral",
+        "amusement",
+        "disapproval",
+        "annoyance"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter17": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "surprise",
+        "realization"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter18": {
+      "go_emotions": [
+        "disappointment",
+        "neutral",
+        "annoyance",
+        "remorse"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter19": {
+      "go_emotions": [
+        "neutral",
+        "amusement",
+        "admiration",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter20": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "joy",
+        "annoyance"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter21": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "disapproval",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_negative"
+    }
+  },
+  "A Study in Scarlet by Arthur Conan Doyle (12200)": {
+    "chapter1": {
+      "go_emotions": [
+        "sadness",
+        "disappointment",
+        "neutral",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter2": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter3": {
+      "go_emotions": [
+        "surprise",
+        "neutral",
+        "curiosity",
+        "confusion"
+      ],
+      "mapped_emotion": "playful"
+    },
+    "chapter4": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "surprise",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter5": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "curiosity",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter6": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "realization",
+        "approval"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter7": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "surprise",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter8": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "disappointment",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter9": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "disappointment"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter10": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter11": {
+      "go_emotions": [
+        "neutral",
+        "surprise",
+        "realization",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter12": {
+      "go_emotions": [
+        "neutral",
+        "admiration",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter13": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "optimism",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter14": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "approval",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_positive"
+    }
+  },
+  "A Tale of Two Cities by Charles Dickens (26396)": {
+    "chapter1": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "realization",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter2": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter3": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "curiosity",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter4": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "curiosity",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter5": {
+      "go_emotions": [
+        "neutral",
+        "amusement",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter6": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "curiosity"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter7": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "disapproval",
+        "disappointment"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter8": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "approval",
+        "surprise"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter9": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter10": {
+      "go_emotions": [
+        "neutral",
+        "gratitude",
+        "admiration",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter11": {
+      "go_emotions": [
+        "neutral",
+        "admiration",
+        "approval",
+        "disapproval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter12": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter13": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "admiration",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter14": {
+      "go_emotions": [
+        "neutral",
+        "admiration",
+        "disappointment",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter15": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "realization",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter16": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter17": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter18": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "optimism"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter19": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter20": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter21": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "disappointment",
+        "approval"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter22": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "approval",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter23": {
+      "go_emotions": [
+        "joy",
+        "neutral",
+        "sadness",
+        "caring"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter24": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "curiosity",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter25": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "curiosity",
+        "realization"
+      ],
+      "mapped_emotion": "neutral"
+    },
+    "chapter26": {
+      "go_emotions": [
+        "neutral",
+        "desire",
+        "curiosity",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter27": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "approval",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter28": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "disappointment"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter29": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "disapproval"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter30": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter31": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter32": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "curiosity",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter33": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter34": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "sadness",
+        "fear"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter35": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter36": {
+      "go_emotions": [
+        "neutral",
+        "amusement",
+        "realization",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter37": {
+      "go_emotions": [
+        "neutral",
+        "admiration",
+        "approval",
+        "fear"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter38": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "caring"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter39": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "annoyance",
+        "disappointment"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter40": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter41": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "caring",
+        "approval"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter42": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "caring",
+        "confusion"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter43": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "disappointment",
+        "fear"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter44": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "disappointment",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter45": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "annoyance",
+        "disapproval"
+      ],
+      "mapped_emotion": "angry"
+    }
+  },
+  "Adventures of Huckleberry Finn by Mark Twain (22125)": {
+    "chapter1": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "approval",
+        "annoyance"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter2": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "confusion",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter3": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "disapproval"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter4": {
+      "go_emotions": [
+        "approval",
+        "neutral",
+        "joy",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter5": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "realization",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral"
+    },
+    "chapter6": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter7": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "curiosity",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter8": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter9": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "curiosity",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter10": {
+      "go_emotions": [
+        "neutral",
+        "desire",
+        "disappointment",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter11": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "disapproval",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter12": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "disappointment",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter13": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "annoyance",
+        "realization"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter14": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "curiosity"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter15": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "nervousness",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter16": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "curiosity",
+        "disappointment"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter17": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "curiosity",
+        "disapproval"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter18": {
+      "go_emotions": [
+        "neutral",
+        "admiration",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter19": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter20": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "disappointment",
+        "curiosity"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter21": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter22": {
+      "go_emotions": [
+        "amusement",
+        "neutral",
+        "annoyance",
+        "disgust"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter23": {
+      "go_emotions": [
+        "amusement",
+        "neutral",
+        "joy",
+        "annoyance"
+      ],
+      "mapped_emotion": "playful"
+    },
+    "chapter24": {
+      "go_emotions": [
+        "neutral",
+        "optimism",
+        "disappointment",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter25": {
+      "go_emotions": [
+        "neutral",
+        "admiration",
+        "approval",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter26": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "annoyance",
+        "realization"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter27": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "approval",
+        "disappointment"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter28": {
+      "go_emotions": [
+        "sadness",
+        "neutral",
+        "disappointment",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter29": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "admiration"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter30": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter31": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "disappointment",
+        "annoyance"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter32": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter33": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter34": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter35": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "disappointment",
+        "disapproval"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter36": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "disapproval",
+        "approval"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter37": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter38": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "curiosity",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter39": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "disappointment",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter40": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter41": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "curiosity",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter42": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter43": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "approval",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_positive"
+    }
+  },
+  "Alice's Adventures in Wonderland by Lewis Carroll (48267)": {
+    "chapter1": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "curiosity",
+        "realization"
+      ],
+      "mapped_emotion": "neutral"
+    },
+    "chapter2": {
+      "go_emotions": [
+        "sadness",
+        "neutral",
+        "disappointment",
+        "amusement"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter3": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "annoyance",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter4": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "surprise",
+        "curiosity"
+      ],
+      "mapped_emotion": "epic"
+    },
+    "chapter5": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "confusion",
+        "curiosity"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter6": {
+      "go_emotions": [
+        "neutral",
+        "amusement",
+        "fear",
+        "annoyance"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter7": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "approval",
+        "disapproval"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter8": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "annoyance",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter9": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "joy",
+        "annoyance"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter10": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter11": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "admiration",
+        "curiosity"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter12": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "realization",
+        "fear"
+      ],
+      "mapped_emotion": "sad"
+    }
+  },
+  "Anna Karenina by graf Leo Tolstoy (11183)": {
+    "chapter1": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter2": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "remorse"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter3": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "annoyance",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter4": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "realization",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter5": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "admiration",
+        "gratitude"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter6": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "approval",
+        "confusion"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter7": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "curiosity",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter8": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "disappointment",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter9": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "realization",
+        "approval"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter10": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "annoyance",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter11": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "annoyance",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter12": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "fear"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter13": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter14": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "optimism",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter15": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "sadness",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter16": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "disappointment",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter17": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter18": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "realization",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter19": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "approval",
+        "annoyance"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter20": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter21": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "admiration",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter22": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "approval",
+        "disappointment"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter23": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter24": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter25": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "realization"
+      ],
+      "mapped_emotion": "neutral"
+    },
+    "chapter26": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter27": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "disapproval",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter28": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "nervousness",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter29": {
+      "go_emotions": [
+        "amusement",
+        "neutral",
+        "joy",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter30": {
+      "go_emotions": [
+        "neutral",
+        "amusement",
+        "joy",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter31": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "sadness",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter32": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "approval",
+        "disapproval"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter33": {
+      "go_emotions": [
+        "sadness",
+        "disappointment",
+        "neutral",
+        "embarrassment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter34": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "realization",
+        "remorse"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter35": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "gratitude",
+        "caring"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter36": {
+      "go_emotions": [
+        "joy",
+        "neutral",
+        "approval",
+        "excitement"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter37": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "curiosity",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter38": {
+      "go_emotions": [
+        "neutral",
+        "caring",
+        "optimism",
+        "sadness"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter39": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "annoyance",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter40": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter41": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "approval",
+        "disapproval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter42": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "disappointment",
+        "approval"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter43": {
+      "go_emotions": [
+        "neutral",
+        "embarrassment",
+        "disappointment",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter44": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "admiration",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter45": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "disappointment",
+        "joy"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter46": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "curiosity",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter47": {
+      "go_emotions": [
+        "sadness",
+        "disappointment",
+        "neutral",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter48": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "curiosity",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter49": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "anger",
+        "disapproval"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter50": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter51": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter52": {
+      "go_emotions": [
+        "curiosity",
+        "admiration",
+        "neutral",
+        "disappointment"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter53": {
+      "go_emotions": [
+        "neutral",
+        "admiration",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter54": {
+      "go_emotions": [
+        "surprise",
+        "neutral",
+        "realization",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter55": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "joy",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter56": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "joy",
+        "love"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter57": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter58": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter59": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "approval",
+        "disappointment"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter60": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "approval"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter61": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "approval",
+        "relief"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter62": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter63": {
+      "go_emotions": [
+        "sadness",
+        "neutral",
+        "disappointment",
+        "caring"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter64": {
+      "go_emotions": [
+        "neutral",
+        "love",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter65": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "joy",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter66": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "disapproval",
+        "curiosity"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter67": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "approval",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter68": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "sadness",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter69": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter70": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter71": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "confusion"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter72": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter73": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter74": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "remorse",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter75": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "curiosity",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter76": {
+      "go_emotions": [
+        "neutral",
+        "remorse",
+        "sadness",
+        "approval"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter77": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "annoyance",
+        "realization"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter78": {
+      "go_emotions": [
+        "approval",
+        "joy",
+        "neutral",
+        "sadness"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter79": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "approval",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter80": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "love",
+        "curiosity"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter81": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter82": {
+      "go_emotions": [
+        "sadness",
+        "remorse",
+        "neutral",
+        "joy"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter83": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "approval",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter84": {
+      "go_emotions": [
+        "neutral",
+        "excitement",
+        "approval",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter85": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter86": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "admiration",
+        "curiosity"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter87": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "curiosity",
+        "amusement"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter88": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "curiosity",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter89": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "annoyance",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter90": {
+      "go_emotions": [
+        "neutral",
+        "embarrassment",
+        "curiosity",
+        "disappointment"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter91": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "disappointment",
+        "curiosity"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter92": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "annoyance",
+        "disappointment"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter93": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "approval",
+        "disappointment"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter94": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "annoyance",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter95": {
+      "go_emotions": [
+        "joy",
+        "neutral",
+        "nervousness",
+        "curiosity"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter96": {
+      "go_emotions": [
+        "neutral",
+        "embarrassment",
+        "disappointment",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter97": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "admiration",
+        "curiosity"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter98": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "fear",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter99": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "joy",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter100": {
+      "go_emotions": [
+        "curiosity",
+        "neutral",
+        "confusion",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter101": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "annoyance",
+        "disappointment"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter102": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "admiration",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter103": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter104": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "approval",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter105": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter106": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "disapproval",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter107": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "approval",
+        "excitement"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter108": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "curiosity",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter109": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "admiration",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter110": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "curiosity",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter111": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "sadness",
+        "caring"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter112": {
+      "go_emotions": [
+        "curiosity",
+        "embarrassment",
+        "neutral",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter113": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "admiration",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter114": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "approval",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter115": {
+      "go_emotions": [
+        "admiration",
+        "neutral",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter116": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "realization",
+        "surprise"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter117": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "annoyance",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter118": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "approval",
+        "disappointment"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter119": {
+      "go_emotions": [
+        "neutral",
+        "amusement",
+        "curiosity",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter120": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "curiosity",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter121": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "admiration",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter122": {
+      "go_emotions": [
+        "admiration",
+        "sadness",
+        "approval",
+        "remorse"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter123": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "disappointment"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter124": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "nervousness",
+        "sadness"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter125": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "curiosity"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter126": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "approval",
+        "surprise"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter127": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "realization",
+        "approval"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter128": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter129": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "annoyance",
+        "embarrassment"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter130": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "disappointment",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter131": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "admiration",
+        "fear"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter132": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "curiosity",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter133": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "approval",
+        "excitement"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter134": {
+      "go_emotions": [
+        "confusion",
+        "neutral",
+        "disappointment",
+        "curiosity"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter135": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "annoyance",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter136": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "admiration",
+        "caring"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter137": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "approval",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter138": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter139": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "sadness"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter140": {
+      "go_emotions": [
+        "fear",
+        "neutral",
+        "nervousness",
+        "sadness"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter141": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter142": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "disappointment",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter143": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "annoyance",
+        "disappointment"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter144": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "annoyance",
+        "approval"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter145": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "disappointment",
+        "approval"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter146": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "approval",
+        "nervousness"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter147": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter148": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "disapproval",
+        "approval"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter149": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "fear"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter150": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "approval",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter151": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "disappointment",
+        "nervousness"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter152": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "nervousness",
+        "caring"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter153": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "realization",
+        "approval"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter154": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter155": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "disappointment",
+        "approval"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter156": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter157": {
+      "go_emotions": [
+        "neutral",
+        "admiration",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter158": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "approval",
+        "curiosity"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter159": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "amusement",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter160": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "annoyance",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter161": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "approval",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter162": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "disapproval",
+        "realization"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter163": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "approval",
+        "nervousness"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter164": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter165": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "curiosity",
+        "realization"
+      ],
+      "mapped_emotion": "neutral"
+    },
+    "chapter166": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "joy",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter167": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "disapproval",
+        "disappointment"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter168": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "curiosity",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter169": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "confusion",
+        "approval"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter170": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "disapproval",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter171": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "disappointment",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter172": {
+      "go_emotions": [
+        "neutral",
+        "relief",
+        "gratitude",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter173": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "approval",
+        "excitement"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter174": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter175": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "approval"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter176": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "disapproval",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter177": {
+      "go_emotions": [
+        "neutral",
+        "optimism",
+        "approval",
+        "curiosity"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter178": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "annoyance",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter179": {
+      "go_emotions": [
+        "sadness",
+        "neutral",
+        "disappointment",
+        "caring"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter180": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "sadness",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter181": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter182": {
+      "go_emotions": [
+        "neutral",
+        "admiration",
+        "approval",
+        "curiosity"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter183": {
+      "go_emotions": [
+        "neutral",
+        "admiration",
+        "curiosity",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter184": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "admiration",
+        "curiosity"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter185": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "approval",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter186": {
+      "go_emotions": [
+        "neutral",
+        "surprise",
+        "curiosity",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter187": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "realization",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter188": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter189": {
+      "go_emotions": [
+        "sadness",
+        "neutral",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter190": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter191": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "curiosity",
+        "disappointment"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter192": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter193": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "curiosity",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter194": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "curiosity",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter195": {
+      "go_emotions": [
+        "neutral",
+        "admiration",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter196": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "approval",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter197": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "anger",
+        "curiosity"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter198": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "confusion",
+        "realization"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter199": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter200": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "curiosity",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter201": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "approval",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter202": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter203": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter204": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "admiration",
+        "optimism"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter205": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter206": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "realization",
+        "approval"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter207": {
+      "go_emotions": [
+        "neutral",
+        "optimism",
+        "disappointment",
+        "desire"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter208": {
+      "go_emotions": [
+        "neutral",
+        "amusement",
+        "joy",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter209": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "remorse",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter210": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "approval",
+        "sadness"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter211": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "approval",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter212": {
+      "go_emotions": [
+        "amusement",
+        "neutral",
+        "joy",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter213": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "approval",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter214": {
+      "go_emotions": [
+        "neutral",
+        "admiration",
+        "approval",
+        "annoyance"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter215": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "disapproval",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter216": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "fear"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter217": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "approval",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter218": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "admiration",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter219": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter220": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter221": {
+      "go_emotions": [
+        "neutral",
+        "surprise",
+        "realization",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter222": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "joy",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter223": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter224": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "approval",
+        "disappointment"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter225": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "disappointment",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter226": {
+      "go_emotions": [
+        "neutral",
+        "optimism",
+        "approval",
+        "desire"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter227": {
+      "go_emotions": [
+        "neutral",
+        "embarrassment",
+        "curiosity",
+        "disappointment"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter228": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter229": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "annoyance",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter230": {
+      "go_emotions": [
+        "neutral",
+        "amusement",
+        "approval",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter231": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter232": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "caring",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter233": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "approval",
+        "excitement"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter234": {
+      "go_emotions": [
+        "joy",
+        "neutral",
+        "approval",
+        "relief"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter235": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter236": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter237": {
+      "go_emotions": [
+        "neutral",
+        "amusement",
+        "joy",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter238": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "disapproval",
+        "disappointment"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter239": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "curiosity",
+        "optimism"
+      ],
+      "mapped_emotion": "happy"
+    }
+  },
+  "Anne of Green Gables by L. M.  Montgomery (19029)": {
+    "chapter1": {
+      "go_emotions": [
+        "neutral",
+        "surprise",
+        "admiration",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter2": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "surprise",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter3": {
+      "go_emotions": [
+        "neutral",
+        "surprise",
+        "disappointment",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter4": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "realization",
+        "approval"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter5": {
+      "go_emotions": [
+        "curiosity",
+        "love",
+        "disapproval",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter6": {
+      "go_emotions": [
+        "curiosity",
+        "sadness",
+        "remorse",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter7": {
+      "go_emotions": [
+        "curiosity",
+        "neutral",
+        "approval",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter8": {
+      "go_emotions": [
+        "confusion",
+        "neutral",
+        "sadness",
+        "disappointment"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter9": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "curiosity"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter10": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "curiosity",
+        "disapproval"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter11": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "approval",
+        "curiosity"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter12": {
+      "go_emotions": [
+        "fear",
+        "sadness",
+        "disappointment",
+        "curiosity"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter13": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter14": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "approval",
+        "curiosity"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter15": {
+      "go_emotions": [
+        "admiration",
+        "approval",
+        "curiosity",
+        "neutral"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter16": {
+      "go_emotions": [
+        "admiration",
+        "curiosity",
+        "joy",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter17": {
+      "go_emotions": [
+        "sadness",
+        "curiosity",
+        "disappointment",
+        "love"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter18": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "confusion"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter19": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "disapproval",
+        "annoyance"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter20": {
+      "go_emotions": [
+        "sadness",
+        "disappointment",
+        "curiosity",
+        "neutral"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter21": {
+      "go_emotions": [
+        "sadness",
+        "neutral",
+        "disappointment",
+        "curiosity"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter22": {
+      "go_emotions": [
+        "curiosity",
+        "neutral",
+        "sadness",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter23": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "amusement",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter24": {
+      "go_emotions": [
+        "admiration",
+        "love",
+        "desire",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter25": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "annoyance",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter26": {
+      "go_emotions": [
+        "sadness",
+        "fear",
+        "disappointment",
+        "neutral"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter27": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "disappointment",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter28": {
+      "go_emotions": [
+        "fear",
+        "approval",
+        "nervousness",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter29": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "approval",
+        "curiosity"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter30": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "sadness"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter31": {
+      "go_emotions": [
+        "joy",
+        "approval",
+        "neutral",
+        "excitement"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter32": {
+      "go_emotions": [
+        "sadness",
+        "neutral",
+        "disappointment",
+        "nervousness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter33": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter34": {
+      "go_emotions": [
+        "gratitude",
+        "admiration",
+        "approval",
+        "neutral"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter35": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "admiration",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter36": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "disapproval"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter37": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "sadness",
+        "nervousness"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter38": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "curiosity"
+      ],
+      "mapped_emotion": "sad"
+    }
+  },
+  "Beowulf_ An Anglo-Saxon Epic Poem (18468)": {
+    "chapter1": {
+      "go_emotions": [
+        "neutral",
+        "admiration",
+        "sadness",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter2": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter3": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "curiosity",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    }
+  },
+  "Beyond Good and Evil by Friedrich Wilhelm Nietzsche (17331)": {
+    "chapter1": {
+      "go_emotions": [
+        "confusion",
+        "curiosity",
+        "neutral",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter2": {
+      "go_emotions": [
+        "optimism",
+        "neutral",
+        "approval",
+        "caring"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter3": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter4": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "annoyance",
+        "disapproval"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter5": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "approval",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter6": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "confusion",
+        "realization"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter7": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "approval",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter8": {
+      "go_emotions": [
+        "admiration",
+        "neutral",
+        "approval",
+        "pride"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter9": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "curiosity",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    }
+  },
+  "Bleak House by Charles Dickens (35322)": {
+    "chapter1": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "disappointment",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter2": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "disapproval",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter3": {
+      "go_emotions": [
+        "sadness",
+        "admiration",
+        "disappointment",
+        "neutral"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter4": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "confusion",
+        "curiosity"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter5": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter6": {
+      "go_emotions": [
+        "neutral",
+        "excitement",
+        "joy",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter7": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "disapproval",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter8": {
+      "go_emotions": [
+        "joy",
+        "neutral",
+        "approval",
+        "excitement"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter9": {
+      "go_emotions": [
+        "neutral",
+        "optimism",
+        "disapproval",
+        "disappointment"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter10": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter11": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter12": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "admiration",
+        "caring"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter13": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "realization",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter14": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "fear",
+        "curiosity"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter15": {
+      "go_emotions": [
+        "neutral",
+        "admiration",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter16": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter17": {
+      "go_emotions": [
+        "admiration",
+        "neutral",
+        "approval",
+        "disappointment"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter18": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter19": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "confusion"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter20": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "annoyance",
+        "disapproval"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter21": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "approval"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter22": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter23": {
+      "go_emotions": [
+        "confusion",
+        "neutral",
+        "realization",
+        "admiration"
+      ],
+      "mapped_emotion": "neutral"
+    },
+    "chapter24": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "confusion",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter25": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "confusion",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter26": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "disappointment",
+        "disapproval"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter27": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "approval",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter28": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter29": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "annoyance",
+        "realization"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter30": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "approval",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter31": {
+      "go_emotions": [
+        "neutral",
+        "gratitude",
+        "curiosity",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter32": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter33": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "surprise",
+        "realization"
+      ],
+      "mapped_emotion": "neutral"
+    },
+    "chapter34": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "curiosity",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter35": {
+      "go_emotions": [
+        "sadness",
+        "nervousness",
+        "neutral",
+        "fear"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter36": {
+      "go_emotions": [
+        "admiration",
+        "neutral",
+        "joy",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter37": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter38": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "excitement",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter39": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "admiration",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter40": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter41": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter42": {
+      "go_emotions": [
+        "neutral",
+        "optimism",
+        "curiosity",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter43": {
+      "go_emotions": [
+        "sadness",
+        "neutral",
+        "fear",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter44": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "confusion"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter45": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "embarrassment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter46": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter47": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "sadness",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter48": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter49": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "admiration",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter50": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter51": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "curiosity",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter52": {
+      "go_emotions": [
+        "fear",
+        "neutral",
+        "surprise",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter53": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "admiration",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter54": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "joy"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter55": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "realization",
+        "disapproval"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter56": {
+      "go_emotions": [
+        "neutral",
+        "surprise",
+        "fear",
+        "realization"
+      ],
+      "mapped_emotion": "neutral"
+    },
+    "chapter57": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter58": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter59": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "realization",
+        "nervousness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter60": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "caring",
+        "approval"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter61": {
+      "go_emotions": [
+        "sadness",
+        "neutral",
+        "disappointment",
+        "curiosity"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter62": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "approval",
+        "optimism"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter63": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter64": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "optimism",
+        "curiosity"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter65": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "approval",
+        "relief"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter66": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter67": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "optimism",
+        "desire"
+      ],
+      "mapped_emotion": "happy"
+    }
+  },
+  "Carmilla by Joseph Sheridan Le Fanu (9180)": {
+    "chapter1": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "realization",
+        "disapproval"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter2": {
+      "go_emotions": [
+        "disappointment",
+        "sadness",
+        "curiosity",
+        "neutral"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter3": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "curiosity",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter4": {
+      "go_emotions": [
+        "admiration",
+        "neutral",
+        "curiosity",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter5": {
+      "go_emotions": [
+        "curiosity",
+        "admiration",
+        "neutral",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter6": {
+      "go_emotions": [
+        "gratitude",
+        "neutral",
+        "approval",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter7": {
+      "go_emotions": [
+        "neutral",
+        "amusement",
+        "fear",
+        "nervousness"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter8": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "confusion",
+        "curiosity"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter9": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "sadness"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter10": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "approval"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter11": {
+      "go_emotions": [
+        "admiration",
+        "neutral",
+        "approval",
+        "disappointment"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter12": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "optimism",
+        "disappointment"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter13": {
+      "go_emotions": [
+        "fear",
+        "neutral",
+        "confusion",
+        "nervousness"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter14": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter15": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "excitement",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter16": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "annoyance",
+        "disappointment"
+      ],
+      "mapped_emotion": "angry"
+    }
+  },
+  "Cranford by Elizabeth Cleghorn Gaskell (29433)": {
+    "chapter1": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "confusion",
+        "curiosity"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter2": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "disappointment",
+        "approval"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter3": {
+      "go_emotions": [
+        "surprise",
+        "sadness",
+        "neutral",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter4": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "annoyance",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter5": {
+      "go_emotions": [
+        "annoyance",
+        "disappointment",
+        "neutral",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter6": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "approval"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter7": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter8": {
+      "go_emotions": [
+        "confusion",
+        "neutral",
+        "curiosity",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter9": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter10": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "realization",
+        "approval"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter11": {
+      "go_emotions": [
+        "neutral",
+        "embarrassment",
+        "joy",
+        "realization"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter12": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "disappointment",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter13": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter14": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "disappointment"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter15": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "surprise",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter16": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "confusion",
+        "approval"
+      ],
+      "mapped_emotion": "calm"
+    }
+  },
+  "Crime and Punishment by Fyodor Dostoyevsky (30772)": {
+    "chapter1": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "sadness",
+        "nervousness"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter2": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter3": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter4": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "approval",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter5": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "annoyance",
+        "curiosity"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter6": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "approval",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter7": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter8": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "realization",
+        "surprise"
+      ],
+      "mapped_emotion": "neutral"
+    },
+    "chapter9": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "curiosity",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter10": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "fear",
+        "nervousness"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter11": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "curiosity",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter12": {
+      "go_emotions": [
+        "neutral",
+        "surprise",
+        "annoyance",
+        "realization"
+      ],
+      "mapped_emotion": "neutral"
+    },
+    "chapter13": {
+      "go_emotions": [
+        "neutral",
+        "optimism",
+        "curiosity",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter14": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "fear"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter15": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter16": {
+      "go_emotions": [
+        "disappointment",
+        "neutral",
+        "curiosity",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter17": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "sadness",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter18": {
+      "go_emotions": [
+        "surprise",
+        "neutral",
+        "realization",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral"
+    },
+    "chapter19": {
+      "go_emotions": [
+        "neutral",
+        "amusement",
+        "annoyance",
+        "joy"
+      ],
+      "mapped_emotion": "playful"
+    },
+    "chapter20": {
+      "go_emotions": [
+        "annoyance",
+        "neutral",
+        "confusion",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter21": {
+      "go_emotions": [
+        "curiosity",
+        "neutral",
+        "disapproval",
+        "optimism"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter22": {
+      "go_emotions": [
+        "gratitude",
+        "confusion",
+        "fear",
+        "curiosity"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter23": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "disappointment"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter24": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "fear",
+        "nervousness"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter25": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "curiosity",
+        "surprise"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter26": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "surprise",
+        "curiosity"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter27": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "approval",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter28": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter29": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "disapproval",
+        "caring"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter30": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "sadness",
+        "nervousness"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter31": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "annoyance",
+        "realization"
+      ],
+      "mapped_emotion": "neutral"
+    },
+    "chapter32": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "sadness",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter33": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "sadness",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter34": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "curiosity",
+        "disappointment"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter35": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "admiration",
+        "curiosity"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter36": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter37": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "disappointment",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter38": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter39": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "nervousness"
+      ],
+      "mapped_emotion": "sad"
+    }
+  },
+  "Don Quixote by Miguel de Cervantes Saavedra (9567)": {
+    "chapter1": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "disapproval",
+        "disappointment"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter2": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter3": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "approval",
+        "disappointment"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter4": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "annoyance",
+        "realization"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter5": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "approval",
+        "caring"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter6": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "curiosity",
+        "disappointment"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter7": {
+      "go_emotions": [
+        "neutral",
+        "amusement",
+        "annoyance",
+        "joy"
+      ],
+      "mapped_emotion": "playful"
+    },
+    "chapter8": {
+      "go_emotions": [
+        "neutral",
+        "caring",
+        "annoyance",
+        "disapproval"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter9": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "admiration",
+        "annoyance"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter10": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "annoyance",
+        "realization"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter11": {
+      "go_emotions": [
+        "disappointment",
+        "sadness",
+        "neutral",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter12": {
+      "go_emotions": [
+        "neutral",
+        "caring",
+        "desire",
+        "optimism"
+      ],
+      "mapped_emotion": "romantic"
+    },
+    "chapter13": {
+      "go_emotions": [
+        "neutral",
+        "gratitude",
+        "approval",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter14": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "approval",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter15": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter16": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter17": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter18": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "approval"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter19": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "disappointment",
+        "disapproval"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter20": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "disappointment",
+        "approval"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter21": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "annoyance",
+        "approval"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter22": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "approval"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter23": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "disapproval",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter24": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter25": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "annoyance",
+        "realization"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter26": {
+      "go_emotions": [
+        "gratitude",
+        "caring",
+        "neutral",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter27": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "annoyance",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter28": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter29": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "curiosity",
+        "surprise"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter30": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "disapproval",
+        "realization"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter31": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "joy"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter32": {
+      "go_emotions": [
+        "sadness",
+        "disappointment",
+        "neutral",
+        "remorse"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter33": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "approval",
+        "disapproval"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter34": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter35": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "annoyance",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter36": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "admiration",
+        "love"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter37": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter38": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter39": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter40": {
+      "go_emotions": [
+        "neutral",
+        "gratitude",
+        "sadness",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter41": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "optimism"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter42": {
+      "go_emotions": [
+        "neutral",
+        "love",
+        "approval",
+        "caring"
+      ],
+      "mapped_emotion": "romantic"
+    },
+    "chapter43": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "disappointment"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter44": {
+      "go_emotions": [
+        "neutral",
+        "remorse",
+        "sadness",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter45": {
+      "go_emotions": [
+        "neutral",
+        "admiration",
+        "approval",
+        "curiosity"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter46": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter47": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "surprise",
+        "annoyance"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter48": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "curiosity",
+        "amusement"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter49": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "annoyance",
+        "disapproval"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter50": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "curiosity",
+        "realization"
+      ],
+      "mapped_emotion": "neutral"
+    },
+    "chapter51": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "disapproval",
+        "approval"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter52": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "approval",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter53": {
+      "go_emotions": [
+        "amusement",
+        "neutral",
+        "joy",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter54": {
+      "go_emotions": [
+        "admiration",
+        "neutral",
+        "approval",
+        "curiosity"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter55": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "joy",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter56": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "annoyance",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter57": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "caring",
+        "realization"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter58": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "curiosity",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter59": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "fear",
+        "realization"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter60": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter61": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter62": {
+      "go_emotions": [
+        "neutral",
+        "remorse",
+        "sadness",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter63": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "curiosity",
+        "nervousness"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter64": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "optimism"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter65": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "curiosity",
+        "realization"
+      ],
+      "mapped_emotion": "neutral"
+    },
+    "chapter66": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "optimism"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter67": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "curiosity",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter68": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter69": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "curiosity",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter70": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "optimism",
+        "desire"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter71": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "admiration",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter72": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "approval",
+        "curiosity"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter73": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter74": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "joy"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter75": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "surprise",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter76": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "approval",
+        "annoyance"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter77": {
+      "go_emotions": [
+        "neutral",
+        "admiration",
+        "optimism",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter78": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "approval",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter79": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "disappointment",
+        "approval"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter80": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter81": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "approval",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter82": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "annoyance",
+        "realization"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter83": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "approval",
+        "confusion"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter84": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "curiosity",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter85": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "approval",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter86": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter87": {
+      "go_emotions": [
+        "neutral",
+        "admiration",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter88": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter89": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "confusion",
+        "curiosity"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter90": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "approval",
+        "amusement"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter91": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter92": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "disapproval",
+        "annoyance"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter93": {
+      "go_emotions": [
+        "neutral",
+        "optimism",
+        "approval",
+        "desire"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter94": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "disappointment"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter95": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter96": {
+      "go_emotions": [
+        "neutral",
+        "admiration",
+        "approval",
+        "gratitude"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter97": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "realization",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter98": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "curiosity",
+        "optimism"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter99": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "approval",
+        "curiosity"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter100": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter101": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "realization",
+        "approval"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter102": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter103": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "confusion",
+        "realization"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter104": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "disapproval",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter105": {
+      "go_emotions": [
+        "annoyance",
+        "neutral",
+        "anger",
+        "disapproval"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter106": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter107": {
+      "go_emotions": [
+        "neutral",
+        "admiration",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter108": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter109": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "approval",
+        "fear"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter110": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "approval",
+        "optimism"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter111": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter112": {
+      "go_emotions": [
+        "neutral",
+        "amusement",
+        "annoyance",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter113": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "remorse",
+        "joy"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter114": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "joy",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter115": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter116": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "annoyance",
+        "curiosity"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter117": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "annoyance",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter118": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "realization",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter119": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "approval",
+        "annoyance"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter120": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter121": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "admiration",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter122": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "embarrassment",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter123": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter124": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter125": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "approval"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter126": {
+      "go_emotions": [
+        "neutral",
+        "admiration",
+        "approval",
+        "curiosity"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter127": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "confusion",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter128": {
+      "go_emotions": [
+        "sadness",
+        "neutral",
+        "disappointment",
+        "approval"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter129": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "approval",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter130": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "confusion",
+        "curiosity"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter131": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter132": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    }
+  },
+  "Dracula by Bram Stoker (29823)": {
+    "chapter1": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "admiration",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter2": {
+      "go_emotions": [
+        "confusion",
+        "neutral",
+        "curiosity",
+        "fear"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter3": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "realization",
+        "nervousness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter4": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "realization",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter5": {
+      "go_emotions": [
+        "desire",
+        "neutral",
+        "love",
+        "optimism"
+      ],
+      "mapped_emotion": "romantic"
+    },
+    "chapter6": {
+      "go_emotions": [
+        "admiration",
+        "approval",
+        "neutral",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter7": {
+      "go_emotions": [
+        "neutral",
+        "admiration",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter8": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "admiration",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter9": {
+      "go_emotions": [
+        "sadness",
+        "neutral",
+        "disappointment",
+        "admiration"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter10": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "caring"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter11": {
+      "go_emotions": [
+        "admiration",
+        "love",
+        "fear",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter12": {
+      "go_emotions": [
+        "fear",
+        "neutral",
+        "nervousness",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter13": {
+      "go_emotions": [
+        "neutral",
+        "admiration",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter14": {
+      "go_emotions": [
+        "disappointment",
+        "sadness",
+        "curiosity",
+        "nervousness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter15": {
+      "go_emotions": [
+        "sadness",
+        "curiosity",
+        "neutral",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter16": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "fear",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter17": {
+      "go_emotions": [
+        "neutral",
+        "caring",
+        "approval",
+        "curiosity"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter18": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "admiration",
+        "curiosity"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter19": {
+      "go_emotions": [
+        "approval",
+        "neutral",
+        "realization",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter20": {
+      "go_emotions": [
+        "sadness",
+        "neutral",
+        "disappointment",
+        "admiration"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter21": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter22": {
+      "go_emotions": [
+        "neutral",
+        "optimism",
+        "disappointment",
+        "curiosity"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter23": {
+      "go_emotions": [
+        "sadness",
+        "neutral",
+        "disappointment",
+        "approval"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter24": {
+      "go_emotions": [
+        "caring",
+        "neutral",
+        "approval",
+        "optimism"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter25": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "optimism",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter26": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "curiosity"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter27": {
+      "go_emotions": [
+        "admiration",
+        "neutral",
+        "fear",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    }
+  },
+  "Dubliners by James Joyce (11906)": {
+    "chapter1": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "realization",
+        "approval"
+      ],
+      "mapped_emotion": "calm"
+    }
+  },
+  "Emma by Jane Austen (10241)": {
+    "chapter1": {
+      "go_emotions": [
+        "sadness",
+        "admiration",
+        "neutral",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter2": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "disapproval",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter3": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "admiration",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter4": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "admiration",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter5": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "disapproval",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter6": {
+      "go_emotions": [
+        "admiration",
+        "approval",
+        "neutral",
+        "gratitude"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter7": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "curiosity",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter8": {
+      "go_emotions": [
+        "gratitude",
+        "neutral",
+        "amusement",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter9": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "remorse"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter10": {
+      "go_emotions": [
+        "neutral",
+        "admiration",
+        "approval",
+        "disappointment"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter11": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "confusion",
+        "realization"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter12": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "optimism",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter13": {
+      "go_emotions": [
+        "neutral",
+        "admiration",
+        "sadness",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter14": {
+      "go_emotions": [
+        "joy",
+        "neutral",
+        "approval",
+        "relief"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter15": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "caring",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter16": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "annoyance",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter17": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "remorse"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter18": {
+      "go_emotions": [
+        "disappointment",
+        "neutral",
+        "sadness",
+        "remorse"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter19": {
+      "go_emotions": [
+        "neutral",
+        "gratitude",
+        "approval",
+        "disappointment"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter20": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "approval"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter21": {
+      "go_emotions": [
+        "joy",
+        "approval",
+        "optimism",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter22": {
+      "go_emotions": [
+        "disappointment",
+        "neutral",
+        "sadness",
+        "admiration"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter23": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "disappointment"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter24": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "admiration",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter25": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "approval",
+        "disappointment"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter26": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "confusion",
+        "realization"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter27": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "remorse",
+        "disapproval"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter28": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "confusion",
+        "curiosity"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter29": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "admiration",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter30": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "approval",
+        "annoyance"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter31": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter32": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "disappointment",
+        "annoyance"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter33": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "disappointment",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter34": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "disappointment"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter35": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "curiosity",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter36": {
+      "go_emotions": [
+        "optimism",
+        "caring",
+        "neutral",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter37": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter38": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter39": {
+      "go_emotions": [
+        "joy",
+        "neutral",
+        "relief",
+        "approval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter40": {
+      "go_emotions": [
+        "approval",
+        "optimism",
+        "neutral",
+        "disapproval"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter41": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter42": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter43": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "annoyance",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter44": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "approval",
+        "disappointment"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter45": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter46": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter47": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "fear"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter48": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "approval"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter49": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter50": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "optimism",
+        "disappointment"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter51": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "disapproval",
+        "realization"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter52": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter53": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "curiosity"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter54": {
+      "go_emotions": [
+        "fear",
+        "nervousness",
+        "neutral",
+        "sadness"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter55": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "approval",
+        "confusion"
+      ],
+      "mapped_emotion": "happy"
+    }
+  },
+  "Frankenstein; Or, The Modern Prometheus by Mary Wollstonecraft Shelley (18270)": {
+    "chapter1": {
+      "go_emotions": [
+        "sadness",
+        "neutral",
+        "disappointment",
+        "admiration"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter2": {
+      "go_emotions": [
+        "sadness",
+        "remorse",
+        "disappointment",
+        "neutral"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter3": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "admiration",
+        "optimism"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter4": {
+      "go_emotions": [
+        "disappointment",
+        "sadness",
+        "admiration",
+        "curiosity"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter5": {
+      "go_emotions": [
+        "sadness",
+        "caring",
+        "neutral",
+        "optimism"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter6": {
+      "go_emotions": [
+        "sadness",
+        "curiosity",
+        "disappointment",
+        "neutral"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter7": {
+      "go_emotions": [
+        "sadness",
+        "neutral",
+        "disappointment",
+        "admiration"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter8": {
+      "go_emotions": [
+        "sadness",
+        "disappointment",
+        "remorse",
+        "neutral"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter9": {
+      "go_emotions": [
+        "disappointment",
+        "joy",
+        "sadness",
+        "neutral"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter10": {
+      "go_emotions": [
+        "sadness",
+        "neutral",
+        "disappointment",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter11": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "curiosity"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter12": {
+      "go_emotions": [
+        "neutral",
+        "admiration",
+        "surprise",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter13": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter14": {
+      "go_emotions": [
+        "neutral",
+        "admiration",
+        "approval",
+        "excitement"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter15": {
+      "go_emotions": [
+        "disappointment",
+        "sadness",
+        "neutral",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter16": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "disapproval",
+        "disappointment"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter17": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter18": {
+      "go_emotions": [
+        "sadness",
+        "disappointment",
+        "neutral",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter19": {
+      "go_emotions": [
+        "sadness",
+        "disappointment",
+        "remorse",
+        "neutral"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter20": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "realization",
+        "approval"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter21": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "nervousness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter22": {
+      "go_emotions": [
+        "fear",
+        "nervousness",
+        "neutral",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter23": {
+      "go_emotions": [
+        "sadness",
+        "disappointment",
+        "neutral",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    }
+  },
+  "Great Expectations by Charles Dickens (23569)": {
+    "chapter1": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "sadness",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter2": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "approval",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter3": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "annoyance",
+        "disappointment"
+      ],
+      "mapped_emotion": "angry"
+    },
+    "chapter4": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "curiosity"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter5": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "curiosity",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter6": {
+      "go_emotions": [
+        "disappointment",
+        "optimism",
+        "love",
+        "neutral"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter7": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter8": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "excitement",
+        "surprise"
+      ],
+      "mapped_emotion": "epic"
+    },
+    "chapter9": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "annoyance",
+        "disappointment"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter10": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "optimism"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter11": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "realization",
+        "sadness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter12": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "realization",
+        "nervousness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter13": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "realization",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral"
+    },
+    "chapter14": {
+      "go_emotions": [
+        "disappointment",
+        "sadness",
+        "neutral",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter15": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "confusion",
+        "disapproval"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter16": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "confusion",
+        "approval"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter17": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "realization",
+        "confusion"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter18": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "joy",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter19": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter20": {
+      "go_emotions": [
+        "neutral",
+        "fear",
+        "realization",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral"
+    },
+    "chapter21": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter22": {
+      "go_emotions": [
+        "amusement",
+        "neutral",
+        "curiosity",
+        "joy"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter23": {
+      "go_emotions": [
+        "neutral",
+        "optimism",
+        "approval",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter24": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "optimism",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter25": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "disappointment"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter26": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "annoyance"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter27": {
+      "go_emotions": [
+        "neutral",
+        "optimism",
+        "caring",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter28": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "curiosity",
+        "disappointment"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter29": {
+      "go_emotions": [
+        "love",
+        "neutral",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter30": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter31": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "disappointment"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter32": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "curiosity",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter33": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "optimism",
+        "admiration"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter34": {
+      "go_emotions": [
+        "disappointment",
+        "confusion",
+        "neutral",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter35": {
+      "go_emotions": [
+        "sadness",
+        "disappointment",
+        "neutral",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter36": {
+      "go_emotions": [
+        "neutral",
+        "realization",
+        "approval",
+        "optimism"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter37": {
+      "go_emotions": [
+        "neutral",
+        "curiosity",
+        "confusion",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter38": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter39": {
+      "go_emotions": [
+        "sadness",
+        "disappointment",
+        "neutral",
+        "nervousness"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter40": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "realization",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter41": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "annoyance"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter42": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "confusion"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter43": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "curiosity",
+        "disappointment"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter44": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "confusion",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter45": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "nervousness",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter46": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "realization",
+        "disapproval"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter47": {
+      "go_emotions": [
+        "fear",
+        "nervousness",
+        "neutral",
+        "confusion"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter48": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "curiosity",
+        "approval"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter49": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter50": {
+      "go_emotions": [
+        "sadness",
+        "neutral",
+        "approval",
+        "disappointment"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter51": {
+      "go_emotions": [
+        "confusion",
+        "neutral",
+        "realization",
+        "approval"
+      ],
+      "mapped_emotion": "calm"
+    },
+    "chapter52": {
+      "go_emotions": [
+        "neutral",
+        "joy",
+        "approval",
+        "relief"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter53": {
+      "go_emotions": [
+        "neutral",
+        "disappointment",
+        "sadness",
+        "disapproval"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter54": {
+      "go_emotions": [
+        "neutral",
+        "confusion",
+        "realization",
+        "surprise"
+      ],
+      "mapped_emotion": "neutral"
+    },
+    "chapter55": {
+      "go_emotions": [
+        "neutral",
+        "annoyance",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "neutral_positive"
+    },
+    "chapter56": {
+      "go_emotions": [
+        "neutral",
+        "sadness",
+        "disappointment",
+        "realization"
+      ],
+      "mapped_emotion": "sad"
+    },
+    "chapter57": {
+      "go_emotions": [
+        "neutral",
+        "nervousness",
+        "fear",
+        "sadness"
+      ],
+      "mapped_emotion": "neutral_negative"
+    },
+    "chapter58": {
+      "go_emotions": [
+        "neutral",
+        "approval",
+        "realization",
+        "disappointment"
+      ],
+      "mapped_emotion": "happy"
+    },
+    "chapter59": {
+      "go_emotions": [
+        "neutral",
+        "disapproval",
+        "approval",
+        "realization"
+      ],
+      "mapped_emotion": "neutral_positive"
+    }
+  }
+}
